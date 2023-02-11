@@ -37,36 +37,36 @@ links:
     Icon-Class: fab fa-twitter
 
     # Cal.com
-  - Name: Cal.com
-    URL: https://cal.com
+ - Name: Cal.com
+    URL: #https://cal.com
     Username: harshtrivedi
     Color: '#232323'
     Icon-Class: fa fa-calendar-check
 
     # CLUBHOUSE
   - Name: Clubhouse
-    URL: https://www.clubhouse.com
+    URL: #https://www.clubhouse.com
     Username: '@harsh98trivedi'
     Color: '#f1c40f'
     Icon-Class: fas fa-hand-paper -mt-0.5
     
     # LINKEDIN
   - Name: LinkedIn
-    URL: https://www.linkedin.com/in
+    URL: #https://www.linkedin.com/in
     Username: harsh98trivedi
     Color: '#2867B2'
     Icon-Class: fab fa-linkedin-in
 
     # YOUTUBE
   - Name: YouTube
-    URL: https://www.youtube.com/channel
+    URL: #https://www.youtube.com/channel
     Username: UCS3zvA_2r1iGT7MB3NVCGAw
     Color: '#ff0000'
     Icon-Class: fab fa-youtube
 
     # GITHUB
   - Name: GitHub
-    URL: http://github.com
+    URL: #http://github.com
     Username: harsh98trivedi
     Color: '#6e5494'
     Icon-Class: fab fa-github
@@ -80,7 +80,7 @@ links:
 
     # TWITCH
   - Name: Twitch
-    URL: 'https://twitch.tv'
+    URL: #'https://twitch.tv'
     Username: harsh98trivedi
     Icon-Class: fab fa-twitch
     Color: '#9147fe'
@@ -88,7 +88,7 @@ links:
 
     # VIMEO
   - Name: Vimeo
-    URL: 'https://vimeo.com'
+    URL: #'https://vimeo.com'
     Username: harshtrivedi
     Icon-Class: fab fa-vimeo-v
     Color: '#1ab7ea'
@@ -96,14 +96,14 @@ links:
 
     # MESSENGER
   - Name: Messenger
-    URL: https://m.me
+    URL: #https://m.me
     Username: theharshtrivedi
     Color: '#006AFF'
     Icon-Class: fab fa-facebook-messenger
 
     # REDDIT
   - Name: Reddit
-    URL: http://reddit.com/u
+    URL: #http://reddit.com/u
     Username: harshtrivedi
     Color: '#FF4500'
     Icon-Class: fab fa-reddit-alien
@@ -249,7 +249,7 @@ links:
     Text_Color: '#ffffff'
 
 # YOU CAN REMOVE FOOTER COMPLETELY BY SIMPLY REMOVING EITHER THE YES OR REMOVING THE FOOTER STATEMENT BELOW COMPLETELY
-footer: 'Yes'
+footer: 
 
 # STOP EDITING HERE ---------- YOU'VE REACHED THE END OF THE CONFIGURATION
 
